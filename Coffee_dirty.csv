@@ -1,0 +1,123 @@
+Product,Product_Type,Type,Inventory,Sales,Marketing,Profit,Date,Unit_Price,Revenue
+Amaretto,Coffee,Regular,867,231,32,68,3/18/2025,10.34,2512.62
+Caffe Mocha,espresso,Regular,441,108,11,58,3/19/2025,12.94,1475.16
+Chamomile,Herbal Tea,Decaf,1121,196,44,87,2/25/2025,4.72,972.32
+Mint,Herbal Tea,Decaf,322,115,15,34,4/25/2025,10.92,1321.32
+Decaf Irish Cream,Coffee,Decaf ,793,223,22,119,2/16/2025,13.02,2643.06
+Decaf Irish Cream,Coffee,Decaf,891,246,,90,4/10/2025,12.88,3335.92
+Darjeeling,Tea,Regular,285,146,22,16,2/2/2025,5.45,724.85
+Amaretto,Coffee,Regular,898,182,29,71,4/21/2025,12.53,2405.76
+Decaf Espresso,Espresso,Decaf,829,193,21,62,2/9/2025,13.97,2444.75
+Chamomile,Herbal Tea,Decaf,1068,263,47,109,2/28/2025,10.45,2894.65
+Caffe Mocha,Espresso,Regular,314,127,15,46,3/14/2025,15.28,2047.52
+Earl Grey,Tea,Regular,954,142,15,43,4/7/2025,9.57,"1,426"
+Decaf Irish Cream,Coffee,Decaf,843,291,25,116,2/17/2025,10.28,3145.68
+Decaf Irish Cream,Coffee,Decaf,779,204,,132,2/17/2025,9.12,1960.8
+Caffe Mocha,Espresso,Regular,478,137,13,76,3/21/2025,17.13,2466.72
+Earl Grey,Tea,Regular,856,138,15,41,3/3/2025,5.05,732.25
+Mint,Herbal Tea,Decaf,283,174,22,29,3/9/2025,6.09,962.22
+Earl Grey,Tea,Regular,988,136,,32,2/1/2025,10.17,1261.08
+Chamomile,herbal  tea,Decaf,862,365,41,117,3/24/2025,10.64,4085.76
+Green Tea,Tea ,Regular,500,105,18,34,4/23/2025,9.3,1032.3
+Green Tea,Tea,Regular,585,89,13,38,3/4/2025,9.45,888.3
+Decaf Irish Cream,Coffee,Decaf,1025,270,32,103,4/13/2025,12.83,3143.35
+Earl Grey,Tea,Regular,760,103,19,30,4/18/2025,5.52,596.16
+Amaretto,Coffee,Regular,991,162,22,100,3/18/2025,12.47,2119.9
+Earl Grey,Tea,Regular,866,131,15,45,2/6/2025,9.95,1373.1
+Mint,Herbal Tea,Decaf,246,134,20,43,2/19/2025,7.66,1080.06
+Amaretto,Coffee,Regular,868,254,33,113,2/20/2025,11.38,3038.46
+Colombian,Coffee,Regular,563,175,27,48,4/25/2025,9.19,1690.96
+Decaf Irish Cream,Coffee,Decaf,709,285,25,99,4/26/2025,11.78,3051.02
+Chamomile,Herbal Tea,Decaf,1090,458,55,57,2/8/2025,4.35,1809.6
+Colombian,Coffee,Regular,791,189,24,65,3/21/2025,12.23,2433.77
+Earl Grey,Tea,Regular,892,167,18,42,2/1/2025,9.67,1469.84
+Darjeeling,Tea,Regular,415,141,20,18,4/1/2025,5.75,851
+Mint,Herbal Tea,Decaf ,353,136,,33,2/6/2025,9.55,1365.65
+Green Tea,Tea,Regular,521,102,14,27,3/13/2025,10.85,1160.95
+Mint,Herbal Tea,Decaf,267,139,13,24,3/1/2025,6.99,880.74
+Earl Grey,Tea,Regular,1039,166,20,30,4/19/2025,9.25,1396.75
+Chamomile,Herbal Tea,Decaf,1182,362,43,-130,3/5/2025,7.49,2853.69
+Caffe Mocha,Espresso,Regular,622,164,18,59,4/14/2025,14.34,"2,481"
+Decaf Espresso,Espresso,Decaf,433,154,25,53,4/2/2025,11.95,"1,936"
+Decaf Irish Cream,Coffee,Decaf,995,276,31,120,3/2/2025,11.32,2841.32
+Decaf Espresso,Espresso,Decaf,508,159,22,58,2/6/2025,18.21,3041.07
+Lemon,Herbal Tea,Decaf,404,161,55,0,2/12/2025,4.05,684.45
+Chamomile,HerbalTea,Decaf,1303,302,60,84,2/3/2025,9.82,3122.76
+Lemon,Herbal Tea,Decaf,290,163,283,0,3/17/2025,8.53,1467.16
+Lemon,Herbal Tea,Decaf,431,179,51,0,4/27/2025,4.32,704.16
+Earl Grey,Tea,Regular,1086,124,21,37,3/20/2025,11.44,1487.2
+Amaretto,Coffee,Regular,795,231,29,116,2/27/2025,13.49,3278.07
+Chamomile,Herbal Tea,Decaf,897,209,55,119,3/3/2025,9.52,2094.4
+Earl Grey,Tea,Regular,1098,119,13,29,2/13/2025,6.32,790
+Chamomile,Herbal Tea,Decaf,673,342,63,81,2/25/2025,7.25,2610
+Earl Grey,Tea,Regular,1049,176,20,30,2/17/2025,11.65,2155.25
+Darjeeling,TEA,Regular,337,177,24,17,3/1/2025,6.61,1064.21
+Decaf Espresso,Espresso,Decaf,487,180,30,53,4/17/2025,10.35,1966.5
+Amaretto,Coffee,Regular,651,186,24,88,4/3/2025,11.58,2269.68
+Chamomile,Herbal Tea,Decaf,1204,344,77,-137,4/27/2025,10.81,3383.53
+Colombian,Coffee,Regular,531,178,26,68,2/26/2025,11.78,2202.86
+Decaf Irish Cream,Coffee,Decaf,831,248,19,105,4/25/2025,11.47,2993.67
+Earl Grey,Tea,Regular,1085,224,21,48,3/30/2025,6.12,1248.48
+Mint,Herbal Tea,Decaf ,412,163,18,38,3/12/2025,7.36,1265.92
+Decaf Irish Cream,Coffee,Decaf,980,195,24,74,2/25/2025,14.84,3042.2
+Decaf Irish Cream,Coffee,Decaf,912,235,22,111,2/20/2025,12.1,2988.7
+Chamomile,Herbal Tea,Decaf,934,381,68,120,2/22/2025,10.81,3740.26
+Amaretto,Coffee,Regular,797,154,25,96,3/12/2025,15.46,2504.52
+Mint,Herbal Tea,Decaf,313,137,20,43,2/21/2025,6.38,918.72
+Chamomile,Herbal Tea,Decaf,986,322,45,107,2/19/2025,6.55,2220.45
+Colombian,Cofee,Regular,594,200,27,60,4/1/2025,12.96,2721.6
+Decaf Irish Cream,Coffee,,848,256,31,80,3/11/2025,12.05,3253.5
+Earl Grey,Tea,Regular,912,116,17,36,4/5/2025,6.56,688.8
+Mint,herbal  tea,,341,147,26,29,4/9/2025,10.45,1619.75
+Mint,Herbal Tea,Decaf,225,147,23,37,4/4/2025,$10.59 ,1641.45
+Decaf Espresso,Espresso ,Decaf,505,213,21,59,2/19/2025,13.08,2929.92
+Colombian,Coffee,Regular,634,167,29,59,3/8/2025,$15.78 ,2398.56
+Decaf Irish Cream,Coffee,Decaf,1198,210,21,127,3/5/2025,9.83,2172.43
+Chamomile,Herbal Tea,Decaf,1013,276,59,94,4/24/2025,4.86,"1,414"
+Decaf Espresso,Espresso ,Decaf,601,132,,44,3/6/2025,12.9,1793.1
+Green Tea,Tea,Regular,606,88,12,25,3/21/2025,5.78,537.54
+Decaf Irish Cream,Coffee,Decaf,981,163,29,104,3/12/2025,13.07,2248.04
+Amaretto,Coffee,Regular,780,268,17,113,2/22/2025,15.35,3745.4
+Decaf Irish Cream,Coffee,Decaf,885,238,29,115,4/24/2025,15.72,3930
+Decaf Irish Cream,Coffee,Decaf,1091,195,29,88,3/21/2025,12.94,2652.7
+Decaf Irish Cream,Coffee,decaf,706,240,18,94,3/19/2025,15.5,3921.5
+Chamomile,Herbal Tea,Decaf,1209,373,48,89,3/8/2025,4.66,1579.74
+Decaf Irish Cream,Coffee,Decaf,851,232,25,108,3/27/2025,$9.28 ,2264.32
+Decaf Irish Cream,Coffee,Decaf,772,235,28,108,3/8/2025,11.19,2394.66
+Chamomile,Herbal Tea,Decaf,1262,322,53,143,3/24/2025,9.23,3128.97
+Decaf Irish Cream,Coffee,Decaf,885,201,18,119,4/16/2025,11.33,2401.96
+Decaf Espresso,Espresso,Decaf,484,189,35,40,3/12/2025,$18.01 ,3583.99
+Decaf Espresso,Espresso,Decaf,695,152,25,55,3/4/2025,15.82,2531.2
+Amaretto,Coffee,Regular,749,244,18,93,3/29/2025,14.08,3125.76
+Caffe Mocha,Espresso,Regular,565,156,11,48,3/13/2025,11.34,1859.76
+Decaf Espresso,Espresso,decaf,516,172,23,54,3/7/2025,15.26,2762.06
+Earl Grey,Tea,Regular,1047,154,18,35,3/7/2025,10.7,1733.4
+Lemon,Herbal Tea,,429,162,55,0,3/12/2025,5.23,889.1
+Green Tea,Tea,Regular,733,83,13,36,3/27/2025,9.9,861.3
+Decaf Espresso,Espresso,Decaf,526,169,13,46,3/4/2025,10.15,1806.7
+Colombian,coffee,Regular,651,159,26,54,2/7/2025,13.54,2261.18
+Colombian,Coffee,Regular,437,201,23,78,4/12/2025,14.75,2699.25
+Chamomile,Herbal Tea,Decaf,1269,337,51,92,3/28/2025,8.52,"3,025"
+Colombian,Coffee,Regular,682,190,31,59,2/4/2025,13.48,2696
+Chamomile,Herbal Tea,Decaf,1131,359,156,88,2/9/2025,$10.23 ,3334.98
+Mint,Herbal Tea,Decaf,317,162,21,28,2/9/2025,9.18,1349.46
+Lemon,Herbal Tea,Decaf,432,171,79,0,2/6/2025,9.73,1751.4
+Darjeeling,Tea,Regular,369,132,28,12,4/23/2025,5.88,817.32
+Chamomile,HerbalTea,Decaf,1242,413,51,56,2/18/2025,5.38,2340.3
+Caffe Mocha,Espresso,Regular,364,147,15,67,3/22/2025,16.69,2236.46
+Chamomile,Herbal Tea,Decaf,841,318,37,103,3/16/2025,7.01,2025.89
+Chamomile,Herbal Tea,Decaf,904,380,52,107,3/20/2025,10.77,4308
+Lemon,Herbal Tea,Decaf,420,202,57,0,4/26/2025,$4.06 ,747.04
+Lemon,Herbal Tea,Decaf,431,179,51,0,4/27/2025,4.32,704.16
+Darjeeling,Tea,Regular,353,115,19,18,2/17/2025,6.15,744.15
+Earl Grey,Tea,Regular,1098,119,13,29,2/13/2025,6.32,790
+Decaf Irish Cream,Coffee,Decaf,859,252,29,57,4/2/2025,9.7,2570.5
+Chamomile,Herbal Tea,Decaf,956,264,31,100,2/9/2025,9.93,2383.2
+Mint,Herbal Tea,,328,132,21,39,4/2/2025,5.58,775.62
+Chamomile,Herbal Tea,Decaf,1303,316,44,104,3/10/2025,8.59,2860.47
+Chamomile,Herbal Tea,Decaf,1122,365,53,103,3/16/2025,10.82,3592.24
+Mint,Herbal Tea,Decaf,359,130,19,35,4/2/2025,5.61,768.57
+Decaf Espresso,Espresso,Decaf,589,161,21,44,4/2/2025,15.16,2562.04
+Earl Grey,Tea,Regular,992,139,17,31,4/24/2025,6.24,911.04
+Lemon,Herbal Tea,Decaf,352,149,49,0,4/29/2025,7.61,1194.77
+Caffe Mocha,Espresso,Regular,498,158,15,62,3/22/2025,13.53,1948.32
